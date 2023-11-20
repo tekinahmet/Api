@@ -35,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Administrator/Desktop/BATCH 179-180 QA ENG/IdeaProjects/Batch179NT/src/test/java",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/BATCH 179-180 QA ENG/IdeaProjects/Api-Batch179",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.3137931"
@@ -60,17 +60,6 @@
       <option name="MAIN_CLASS_NAME" value="Get03" />
       <option name="METHOD_NAME" value="get" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
