@@ -2,6 +2,15 @@ import io.restassured.response.Response;
 import static io.restassured.RestAssured.given;
 public class ApiRequest {
     public static void main(String[] args) {
+        /*
+    In this Class we learned :
+            To make API calls we need to add Rest Assured dependency to "Pom.xml"
+            how to get i)    Status Code
+                       ii)   Status line
+                       iii)  Content Type
+                       iv)   Header
+                       iv)   Response time
+     */
 
         Response response =  given().when().get("https://petstore.swagger.io/v2/pet/93");
         // How to print response on console:
