@@ -52,14 +52,7 @@ public class Get02 {
 
         // Server is "Cowboy"
         assertEquals("Cowboy",response.header("server"));
-
-
     }
-
-
-
-
-
 }
 
 

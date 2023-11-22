@@ -34,8 +34,7 @@ public class Put01 extends JsonPlaceHolderBaseUrl {
     @Test
     public void put(){
         // Set Url:
-        spec.pathParams("first","todos"
-        ,"second", 198);
+        spec.pathParams("first","todos","second", 198);
 
         // Set Expected Data
         Map<String,Object> payLoad = jsonPlaceHolderMapper(21,"Wash the dishes",false);
@@ -53,22 +52,5 @@ public class Put01 extends JsonPlaceHolderBaseUrl {
         assertEquals(payLoad.get("userId"),actualData.get("userId"));
         assertEquals(payLoad.get("title"),actualData.get("title"));
         assertEquals(payLoad.get("completed"),actualData.get("completed"));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
-
-
 }

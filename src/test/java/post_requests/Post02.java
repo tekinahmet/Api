@@ -56,12 +56,5 @@ public class Post02 extends JsonPlaceHolderBaseUrl {
         assertEquals(payload.get("title"),actualData.get("title"));
         assertEquals(payload.get("userId"),actualData.get("userId"));
         assertEquals(payload.get("completed"),actualData.get("completed"));
-
     }
-
-
-
-
-
-
 }

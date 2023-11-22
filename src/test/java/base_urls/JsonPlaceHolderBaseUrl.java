@@ -8,6 +8,10 @@ public class JsonPlaceHolderBaseUrl {
     @Before  // This method will work before @Test annotation
     public void setUp(){
         String baseUrl = "https://jsonplaceholder.typicode.com";
-        spec = new RequestSpecBuilder().setBaseUri(baseUrl).addHeader("token","1234").build();
+        spec = new RequestSpecBuilder()
+                .setBaseUri(baseUrl)
+                .addHeader("token","1234")
+                .setContentType(ContentType.JSON)
+                .build();
     }
 }

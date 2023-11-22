@@ -15,7 +15,6 @@ public class JsonPlaceHolderTestData {
        if (completed != null){
            map.put("completed",completed);
        }
-
         return map;
     }
 
