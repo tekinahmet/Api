@@ -38,7 +38,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/BATCH 179-180 QA ENG/IdeaProjects/Api-Batch179/src/test/java/get_requests&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.3137931&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.3137931&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -47,42 +48,14 @@
       <recent name="C:\Users\Administrator\Desktop\BATCH 179-180 QA ENG\IdeaProjects\Batch179NT\src\test\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\BATCH 179-180 QA ENG\IdeaProjects\Api-Batch179\src\test\java\post_requests" />
       <recent name="C:\Users\Administrator\Desktop\BATCH 179-180 QA ENG\IdeaProjects\Api-Batch179\src\test\java\get_requests" />
+      <recent name="C:\Users\Administrator\Desktop\BATCH 179-180 QA ENG\IdeaProjects\Api-Batch179\src\test\java\test_data" />
+      <recent name="C:\Users\Administrator\Desktop\BATCH 179-180 QA ENG\IdeaProjects\Api-Batch179\src\test\java\put_request" />
+      <recent name="C:\Users\Administrator\Desktop\BATCH 179-180 QA ENG\IdeaProjects\Api-Batch179\src\test\java\patch_request" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Get08.get">
-    <configuration name="Get06.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ApiBatch179NT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get_requests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get_requests" />
-      <option name="MAIN_CLASS_NAME" value="get_requests.Get06" />
-      <option name="METHOD_NAME" value="get" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Get07.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ApiBatch179NT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get_requests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get_requests" />
-      <option name="MAIN_CLASS_NAME" value="get_requests.Get07" />
-      <option name="METHOD_NAME" value="get" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Put01.put">
     <configuration name="Get08.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ApiBatch179NT" />
       <extension name="coverage">
@@ -94,22 +67,6 @@
       <option name="PACKAGE_NAME" value="get_requests" />
       <option name="MAIN_CLASS_NAME" value="get_requests.Get08" />
       <option name="METHOD_NAME" value="get" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ApiBatch179NT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get_requests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get_requests" />
-      <option name="MAIN_CLASS_NAME" value="get_requests.HW1" />
-      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,13 +88,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Patch01.patch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiBatch179NT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patch_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patch_request" />
+      <option name="MAIN_CLASS_NAME" value="patch_request.Patch01" />
+      <option name="METHOD_NAME" value="patch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Post02.postMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiBatch179NT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="post_requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="post_requests" />
+      <option name="MAIN_CLASS_NAME" value="post_requests.Post02" />
+      <option name="METHOD_NAME" value="postMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Put01.put" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiBatch179NT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="put_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="put_request" />
+      <option name="MAIN_CLASS_NAME" value="put_request.Put01" />
+      <option name="METHOD_NAME" value="put" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Put01.put" />
+        <item itemvalue="JUnit.Patch01.patch" />
+        <item itemvalue="JUnit.Post02.postMap" />
         <item itemvalue="JUnit.Get08.get" />
         <item itemvalue="JUnit.HW2.test" />
-        <item itemvalue="JUnit.HW1.test" />
-        <item itemvalue="JUnit.Get07.get" />
-        <item itemvalue="JUnit.Get06.get" />
       </list>
     </recent_temporary>
   </component>
