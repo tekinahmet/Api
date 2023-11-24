@@ -55,82 +55,80 @@
       <recent name="C:\Users\Administrator\Desktop\BATCH 179-180 QA ENG\IdeaProjects\Api-Batch179\src\test\java\patch_request" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Get09.get">
-    <configuration name="Get09.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PostRequestWithPojo.test">
+    <configuration name="BaseURL_TestData.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ApiBatch179NT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="get_requests.*" />
+          <option name="PATTERN" value="youtube_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="get_requests" />
-      <option name="MAIN_CLASS_NAME" value="get_requests.Get09" />
-      <option name="METHOD_NAME" value="get" />
+      <option name="PACKAGE_NAME" value="youtube_test" />
+      <option name="MAIN_CLASS_NAME" value="youtube_test.BaseURL_TestData" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Patch01.patch (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Get_Request" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ApiBatch179NT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patch_requests.*" />
+          <option name="PATTERN" value="youtube_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="patch_requests" />
-      <option name="MAIN_CLASS_NAME" value="patch_requests.Patch01" />
-      <option name="METHOD_NAME" value="patch" />
+      <option name="PACKAGE_NAME" value="test_youtube" />
+      <option name="MAIN_CLASS_NAME" value="youtube_test.Get_Request" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostRequestWithPojo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiBatch179NT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="youtube_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="youtube_test" />
+      <option name="MAIN_CLASS_NAME" value="youtube_test.PostRequestWithPojo" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Patch01.patch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Post_Request" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ApiBatch179NT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patch_request.*" />
+          <option name="PATTERN" value="youtube_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="patch_request" />
-      <option name="MAIN_CLASS_NAME" value="patch_request.Patch01" />
-      <option name="METHOD_NAME" value="patch" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="test_youtube" />
+      <option name="MAIN_CLASS_NAME" value="youtube_test.Post_Request" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Post02.postMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Post_Request.post" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ApiBatch179NT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="post_requests.*" />
+          <option name="PATTERN" value="youtube_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="post_requests" />
-      <option name="MAIN_CLASS_NAME" value="post_requests.Post02" />
-      <option name="METHOD_NAME" value="postMap" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Put01.put (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ApiBatch179NT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="put_requests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="put_requests" />
-      <option name="MAIN_CLASS_NAME" value="put_requests.Put01" />
-      <option name="METHOD_NAME" value="put" />
+      <option name="PACKAGE_NAME" value="test_youtube" />
+      <option name="MAIN_CLASS_NAME" value="youtube_test.Post_Request" />
+      <option name="METHOD_NAME" value="post" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Get09.get" />
-        <item itemvalue="JUnit.Patch01.patch (1)" />
-        <item itemvalue="JUnit.Patch01.patch" />
-        <item itemvalue="JUnit.Put01.put (1)" />
-        <item itemvalue="JUnit.Post02.postMap" />
+        <item itemvalue="JUnit.PostRequestWithPojo.test" />
+        <item itemvalue="JUnit.BaseURL_TestData.test" />
+        <item itemvalue="JUnit.Post_Request.post" />
+        <item itemvalue="JUnit.Post_Request" />
+        <item itemvalue="JUnit.Get_Request" />
       </list>
     </recent_temporary>
   </component>
