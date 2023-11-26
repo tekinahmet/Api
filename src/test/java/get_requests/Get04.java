@@ -1,11 +1,8 @@
 package get_requests;
 
 import base_urls.JsonPlaceHolderBaseUrl;
-import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-import io.restassured.specification.RequestSpecification;
-import org.apache.http.client.methods.RequestBuilder;
 import org.junit.Test;
 
 import static io.restassured.RestAssured.given;
